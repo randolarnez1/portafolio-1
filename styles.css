@@ -1,0 +1,36 @@
+body {
+  font-family: "poppins", serif;
+  background-color: black;
+}
+
+h2 {
+    color: #ff6b00;
+    font-family: "Poppins", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.home {
+  background-image: url(imagen/Illustration-header.png);
+  width: 100vw;
+  height: 900vh;
+}
+
+h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+}
+
+.home p {
+  font-weight: 400;
+  font-size: 1rem;
+  color: #ffffff;
+}
+
+.home h3 {
+  font-weight: 500;
+  font-size: 1rem;
+  color: #ff6b00;
+}
